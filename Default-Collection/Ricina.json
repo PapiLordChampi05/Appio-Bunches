@@ -1,0 +1,38 @@
+{
+  "AppioName": "Ricina: The Alchemist",
+  "AppioDescription": "Ricina es una jóven alquimista que vende pociones; desde tónicos para el cabello hasta letales venenos",
+  "AppioVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "IconURL": "https://raw.githubusercontent.com/PapiLordChampi05/Appio-Collections/refs/heads/main/Default-Collection/Ricina.png",
+  "AuthorName": "IDGG73",
+  "CreationDate": {
+    "Day": 11,
+    "Month": 3,
+    "Year": 2025,
+    "Hour": 10,
+    "Minute": 51,
+    "Hour12Format": 10
+  },
+  "AvailableLanguages": [
+    "English",
+    "Spanish"
+  ],
+  "CompatiblePlatforms": "Windows, Android",
+  "DevelopmentState": "Release",
+  "SoftwareCategory": "Game",
+  "RepoOrigin": null,
+  "RepoBranch": null,
+  "WindowsDownloadURL": "https://github.com/PapiLordChampi05/Appio-Bunches/releases/download/Ricina/Windows.zip",
+  "MacOSDownloadURL": null,
+  "LinuxDownloadURL": null,
+  "AndroidDownloadURL": "https://github.com/PapiLordChampi05/Appio-Bunches/releases/download/Ricina/Android.apk",
+  "WindowsExecutableName": "Ricina The Alchemist.exe",
+  "MacOSExecutableName": null,
+  "LinuxExecutableName": null,
+  "AndroidApkName": "Android.apk",
+  "WebpageURL": null,
+  "GUID": "b52ad47148ece15f68e812f939d5005069d9c625"
+}
