@@ -1,13 +1,13 @@
 {
-  "AppioName": "Ricina: The Alchemist",
-  "AppioDescription": "Ricina es una jóven alquimista que vende pociones; desde tónicos para el cabello hasta letales venenos",
+  "AppioName": "Ricina: The Alchemist [DEMO]",
+  "AppioDescription": "Ricina es una jóven alquimista que vende pociones; desde tónicos para el cabello hasta letales venenos.",
   "AppioVersion": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "IconURL": "https://raw.githubusercontent.com/PapiLordChampi05/Appio-Bunches/refs/heads/main/Default-Bunch/Ricina.png",
-  "AuthorName": "IDGG73",
+  "AuthorName": "IDGG73, NXGG08",
   "CreationDate": {
     "Day": 11,
     "Month": 3,
