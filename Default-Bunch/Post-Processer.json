@@ -1,0 +1,38 @@
+{
+  "AppioName": "Post-Processer",
+  "AppioDescription": "Una aplicación para colocarle filtros de Pos-Procesado a tus imágenes.",
+  "AppioVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "IconURL": null,
+  "AuthorName": "IDGG73",
+  "CreationDate": {
+    "Day": 10,
+    "Month": 3,
+    "Year": 2022,
+    "Hour": 20,
+    "Minute": 15,
+    "Hour12Format": 8
+  },
+  "AvailableLanguages": [
+    "Spanish"
+  ],
+  "CompatiblePlatforms": "Windows",
+  "DevelopmentState": "Experimental",
+  "SoftwareCategory": "Application",
+  "RepoOrigin": null,
+  "RepoBranch": null,
+  "AppioPackageURL": null,
+  "WindowsDownloadURL": "https://github.com/PapiLordChampi05/Appio-Bunches/releases/download/Post-Processer/Windows.zip",
+  "MacOSDownloadURL": null,
+  "LinuxDownloadURL": null,
+  "AndroidDownloadURL": null,
+  "WindowsExecutableName": "Post Processer.exe",
+  "MacOSExecutableName": null,
+  "LinuxExecutableName": null,
+  "AndroidApkName": null,
+  "WebpageURL": null,
+  "GUID": "c1e118d21b892e306c6753bb69ad0ff9db6a6c20"
+}
