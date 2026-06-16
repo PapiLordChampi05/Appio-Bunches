@@ -1,0 +1,28 @@
+{
+  "AppioName": "Trimmy",
+  "AppioDescription": "Trim your videos and get clips for social media!",
+  "AppioVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "IconURL": "https://raw.githubusercontent.com/PapiLordChampi05/Appio-Bunches/refs/heads/main/Default-Bunch/Trimmy.png",
+  "AuthorName": "IDGG73",
+  "CreationDate": {
+    "Day": 16,
+    "Month": 6,
+    "Year": 2026,
+    "Hour": 17,
+    "Minute": 6,
+    "Hour12Format": 5
+  },
+  "AvailableLanguages": [
+    "English"
+  ],
+  "CompatiblePlatforms": "Windows",
+  "DevelopmentState": "Release",
+  "SoftwareCategory": "Application",
+  "WindowsDownloadURL": "https://github.com/PapiLordChampi05/Appio-Bunches/releases/download/Trimmy/Windows.zip",
+  "WindowsExecutableName": "Trimmy.exe",
+  "GUID": "8eee9c551722a5b0db8f283d6df1086231a82a1b"
+}
