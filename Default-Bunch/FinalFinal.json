@@ -1,0 +1,27 @@
+{
+  "AppioName": "FinalFinal_LastONe - copy (1)",
+  "AppioDescription": "You are Metatron, a special forces agent sent to OBLITERATE an illegal spaceship.",
+  "AppioVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "IconURL": "https://raw.githubusercontent.com/PapiLordChampi05/Appio-Bunches/refs/heads/main/Default-Bunch/FinalFinal.png",
+  "AuthorName": "IDGG73, NXGG08",
+  "CreationDate": {
+    "Day": 2,
+    "Month": 11,
+    "Year": 2026,
+    "Hour": 1,
+    "Minute": 51
+  },
+  "AvailableLanguages": [
+    "English"
+  ],
+  "CompatiblePlatforms": "Windows",
+  "DevelopmentState": "Experimental",
+  "SoftwareCategory": "Game",
+  "WindowsDownloadURL": "https://github.com/PapiLordChampi05/Appio-Bunches/releases/download/FinalFinal/Windows.zip",
+  "WindowsExecutableName": "FinalFinal_LastONe - copy (1).exe",
+  "GUID": "com.champa-nacho.finalfinal"
+}
